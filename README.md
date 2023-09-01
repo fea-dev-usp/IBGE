@@ -71,4 +71,5 @@ O código desse processo pode ser conferido no notebook [getting_json_ibge](http
 
 Para a plotagem, utilizamos a função choropleth_mapbox e o resultado pode-se observar a seguir:
 
-![Resultado](https://github.com/fea-dev-usp/IBGE/assets/90975619/36c6e831-fa36-4ff2-adde-77e929221f63)
+![Mapa](https://github.com/fea-dev-usp/IBGE/assets/90975619/27ec5572-3a62-4ce4-bf3b-c45f308e1c36)
+
