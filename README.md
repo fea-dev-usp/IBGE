@@ -8,7 +8,7 @@ Extração com Python de dados do IBGE e plotagem de mapas utilizando Plotly
 Esse é um projeto de visualização de dados, que se utiliza dos resultados de variação populacional do Censo de 2022, extraídos do porta SIDRA através da biblioteca Sidrapy para a plotagem de um mapa interativo utilizando Plotly.
 O projeto também acompanha um vídeo gravado para o nosso canal [FEA.dev](https://www.youtube.com/@FEADev), onde mostramos passo a passo esse processo.
 
-[Clique para assistir ao vídeo](https://www.youtube.com/watch?v=arLyMJSFG-M)
+[Clique para assistir ao vídeo 👇](https://www.youtube.com/watch?v=arLyMJSFG-M)
 ![Capa do vídeo IBGE para o YT](https://github.com/fea-dev-usp/IBGE/assets/90975619/f2c246fe-6518-4bc4-891a-f28fcb6f79a9)
 
 ## Instalação
