@@ -9,7 +9,8 @@ Esse é um projeto de visualização de dados, que se utiliza dos resultados de 
 O projeto também acompanha um vídeo gravado para o nosso canal [FEA.dev](https://www.youtube.com/@FEADev), onde mostramos passo a passo esse processo.
 
 -- Thumb provisória
-![Thumb provisória](https://github.com/fea-dev-usp/IBGE/assets/90975619/9aa9afdd-b127-454c-a546-78b7922a1a93)
+![Capa do vídeo IBGE para o YT](https://github.com/fea-dev-usp/IBGE/assets/90975619/f2c246fe-6518-4bc4-891a-f28fcb6f79a9)
+
 ## Instalação
 
 Foram utilizadas as seguintes dependências:
